@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets originales (pesan 3 gb)
+csvs/originales/
