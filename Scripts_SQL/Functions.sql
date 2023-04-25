@@ -19,24 +19,26 @@ SELECT calculadoraIMC(75, 1.8);
 /*Esta primera funcion hace el calculo de IMC (indice de masa corporal). Para ejecutarlo hay que declarar en el select tanto peso como altura. 
 La consulta devolvera el valor final del IMC*/
 
-DROP function IF EXISTS `cantidadLibrosPorAutor`;
+DROP function IF EXISTS `promedioRating`;
 
 DELIMITER $$
 USE `books`$$
-CREATE FUNCTION cantidadLibrosPorAutor(author_name VARCHAR(1000))
+CREATE FUNCTION promedioRating(book_name VARCHAR(500))
 RETURNS INTEGER
 READS SQL DATA
 BEGIN
-    DECLARE cant_libros INT;
-    SELECT COUNT(title) INTO cant_libros
-    FROM books
-    WHERE authors LIKE CONCAT('%', author_name, '%');
-    RETURN cant_libros;
+    DECLARE avg_ratings INT;
+    SELECT AVG(ratings.score) AS puntaje_promedio INTO avg_ratings
+    FROM ratings
+    JOIN books on ratings.id_book = books.id_book
+    WHERE title = book_name;
+    RETURN avg_ratings;
 END$$
 
 DELIMITER ;
 
-SELECT cantidadLibrosPorAutor('Shakespeare');
+SELECT promedioRating('The Best Short Stories of Edgar Allan Poe');
 
-/* Esta funcion traera la cantidad de libros escritos por autor, segun los valores que encuentre en la tabla.
-Lo unico que necesitamos poner es una parte del nombre o apellido del autor a la hora de llamar a la funcion*/
+
+
+/* Esta funcion traera el promedio de votos recibido segun el libro indicado,*/

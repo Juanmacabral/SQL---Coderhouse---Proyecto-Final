@@ -41,9 +41,3 @@ FROM books
 JOIN categories ON books.id_categories = categories.id_categories
 ORDER BY id_book DESC;
 
-/* Este SP sirve para insertar nuevos libros en la tabla books, sin necesitar usar las sentencias INSERT INTO.
-Temas a mejorar:
- Deberia hacer un SP que me ingrese valores en las demas tablas. O, ver de crear un nuevo SP donde pueda ingresar todo junto.
-Osea, en un mismo SP, ingresar los datos de tabla books + precios + ratings.
-Por otro lado, deberia hacer que id_book se ingrese de forma incremental automatica. Ese tema me esta fallando */
-
