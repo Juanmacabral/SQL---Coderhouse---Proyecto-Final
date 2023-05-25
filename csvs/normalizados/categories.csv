@@ -1,943 +1,268 @@
 id_categories,categories
-1,Fiction
-2,Religion
-3,Biography & Autobiography
-4,Technology & Engineering
-5,Law
-6,Health & Fitness
-7,History
-8,Foreign Language Study
-9,Medical
+1,Religion
+2,Music
+3,Education
+4,Fiction
+5,Business & Economics
+6,Cooking
+7,Cuban American families
+8,Psychology
+9,Science
 10,Art
-11,Local author
+11,Philosophy
 12,Gardening
-13,Sports & Recreation
-14,Juvenile Nonfiction
-15,Business & Economics
-16,Family & Relationships
-17,Comics & Graphic Novels
-18,"Body, Mind & Spirit"
-19,ABAP/4 (Computer program language)
-20,Psychology
-21,Nature
-22,Social Science
-23,Political Science
-24,Language Arts & Disciplines
-25,Music
-26,Juvenile Fiction
-27,Education
-28,Bibles
-29,Self-Help
-30,Reference
-31,Poetry
-32,Science
-33,Goddesses
-34,Mathematics
-35,Literary Collections
-36,Humor
-37,Computers
-38,Architecture
-39,Performing Arts
-40,Literary Criticism
-41,Travel
-42,Crafts & Hobbies
-43,Philosophy
-44,English language
-45,Photography
-46,Cooking
-47,Games & Activities
-48,True Crime
-49,Games
-50,Drama
-51,Self-publishing
-52,Transportation
-53,Study Aids
-54,Young Adult Fiction
-55,House & Home
-56,Pets
-57,Canadian fiction
-58,Prostate
-59,Bible
-60,Antiques & Collectibles
-61,Prophecies
-62,Detroit (Mich.)
-63,Decoration and ornament
-64,Accelerated readers
-65,Young Adult Nonfiction
-66,Theater
-67,Construction industry
-68,Diplomatic and consular service
-69,Application software
-70,Production management
-71,Boxcar children (Fictitous characters)
-72,Computer storage devices
-73,United States
-74,Copyright
-75,"Authors, New Zealand"
-76,Immigrants
-77,International relations
-78,Psychoanalysis and literature
-79,NATURE
-80,English fiction
-81,Political science
-82,"Hebrew literature, Modern"
-83,Christmas stories
-84,Autistic children
-85,Barbados
-86,Social sciences
-87,Criminal procedure
-88,Lords prayer
-89,Insurance
-90,"Detective and mystery stories, English"
-91,Admirals
-92,"Theology, Doctrinal"
-93,Families
-94,Salvation
-95,Mass
-96,Japan
-97,Family-owned business enterprises
-98,"Comic books, strips, etc"
-99,FAMILY & RELATIONSHIPS
-100,Conduct of life
-101,Apostles
-102,Change
-103,Impressionism
-104,Brass instrument players
-105,Design
-106,Afghanistan
-107,Caribbean literature
-108,"Cooking, Irish"
-109,Prostitution
-110,Paris
-111,HEALTH & FITNESS
-112,Flamenco
-113,ART
-114,Detective and mystery stories
-115,"Authors, American"
-116,Chemotaxonomy
-117,Motion picture actors and actresses
-118,Interpersonal relations
-119,Science fiction
-120,Dakota Territory
-121,"Europe, Eastern"
-122,Entropy
-123,Cleanliness
-124,Paranormal romance stories
-125,Rock music
-126,Mexican Americans
-127,Antisemitism
-128,Ghost stories
-129,Abused women
-130,Computer networks
-131,Bullies
-132,Indians of North America
-133,Presidents
-134,"Detective and mystery stories, American"
-135,Freemasonry
-136,Cooperativeness
-137,Shenandoah National Park (Va.)
-138,Hand
-139,Covenant theology
-140,Mystery.
-141,Holistic medicine
-142,Colombia
-143,Adoptees
-144,Canada
-145,Commons
-146,Christian life
-147,Apologetics
-148,Childrens stories
-149,Limited partnership
-150,"Civilization, Modern"
-151,Anglo-Saxons
-152,Finger sucking
-153,Radio
-154,Meditation
-155,Communication in marriage
-156,Orphans
-157,Athletes with disabilities
-158,Cookery
-159,Attitude (Psychology)
-160,Historical geography
-161,BIOGRAPHY & AUTOBIOGRAPHY
-162,Babies
-163,Communism
-164,Abused children
-165,Christian women
-166,LANGUAGE ARTS & DISCIPLINES
-167,Academic achievement
-168,Biodiversity conservation
-169,Good and evil
-170,Business cycles
-171,Aquarium fishes
-172,Nutrition
-173,Herbs
-174,"Science fiction, American"
-175,Eskimos
-176,FICTION
-177,Actresses
-178,Baghdad (Iraq)
-179,"Guitar music, Arranged"
-180,Blacks
-181,Childrens poetry
-182,Electronic books
-183,Women
-184,Viticulture
-185,Clouds
-186,"Artists, Dutch"
-187,Mormon Church
-188,Prosthodontics
-189,Bioethics
-190,Monasticism and religious orders
-191,Communication of technical information
-192,Animals
-193,Indian art
-194,AIDS (Disease)
-195,Space colonies
-196,Sales promotion
-197,Alcoholics
-198,Bombardment
-199,"Back Bay (Boston, Mass.)"
-200,Self-help techniques
-201,"Authors, English"
-202,Defense (Criminal procedure)
-203,Man-woman relationships
-204,Grace (Theology)
-205,Imperialism
-206,Charity-schools
-207,English literature
-208,Drama in education
-209,Latin American literature
-210,Communication interpersonnelle
-211,Canvas embroidery
-212,Dystopias
-213,Miniature books
-214,Arab-Israeli conflict
-215,Printing
-216,Artificial intelligence
-217,Cayman Brac Island (Cayman Islands)
-218,Simonov carbine
-219,Political fiction
-220,French language
-221,Love
-222,"Knowledge, Theory of"
-223,Founding
-224,Rock musicians
-225,Tai chi
-226,Deconstruction
-227,"World War, 1939-1945"
-228,"Childrens stories, English"
-229,Faith
-230,Indian mythology
-231,Child rearing
-232,Federal aid to nonprofit organizations
-233,Charlie (Fictitious character : Child)
-234,"Finance, Personal"
-235,"First Coalition, War of the, 1792-1797"
-236,Electronic book
-237,Autobiographies
-238,Martial arts
-239,Contra Costa County (Calif.)
-240,Volvo 740 automobile
-241,Planets
-242,Treasure troves.
-243,Brothers and sisters
-244,Fourth of July orations
-245,Critical thinking
-246,Hindi language
-247,Dutch language
-248,Animal behavior
-249,Telecommunication
-250,Thunderstorms
-251,Marxian school of sociology
-252,Latin language
-253,Puzzles
-254,Internal medicine
-255,Bridegrooms
-256,Agape
-257,Cancer
-258,African American journalists
-259,American wit and humor
-260,Aging
-261,Mediums
-262,American fiction
-263,Italy
-264,Foot
-265,Marine biology
-266,Dystopian plays
-267,"Decoration and ornament, Architectural"
-268,Great Britain
-269,Cooking (Spices)
-270,Violin
-271,Adobe Premiere
-272,Career changes
-273,Erotic literature
-274,Business forecasting
-275,Doctor Who (Fictitious character)
-276,Hebrides (Scotland)
-277,Brand name products
-278,Ocean bottom
-279,Adventure stories
-280,Congenital heart disease
-281,Crystals
-282,Asia
-283,Clock and watch makers
-284,African Americans
-285,China
-286,Human anatomy
-287,"Christian literature, Early"
-288,Creative thinking
-289,Industrial management
-290,Mysticism
-291,Active server pages
-292,Cruise ships
-293,Laundry
-294,Second law of thermodynamics
-295,Capitalism
-296,"Authors, Puerto Rican"
-297,Esperanto
-298,Computer network architectures
-299,Academic writing
-300,Creation
-301,Embezzlement
-302,Arab American women
-303,Lorenz cipher system
-304,Intuition
-305,Catholic schools
-306,Guerrilla warfare
-307,Messerschmitt 163 (Fighter plane)
-308,Arab nationalism
-309,"Beauty, Personal"
-310,"Electric currents, Alternating"
-311,Spanish language
-312,"Airplanes, Military"
-313,City and town life
-314,Germany
-315,Emotions
-316,Healing
-317,Famines
-318,Legislators
-319,Fathers and daughters
-320,Singing
-321,Kitsch
-322,Critical realism
-323,Automobile driver education
-324,Computers and civilization
-325,LAW
-326,Assessment
-327,Ethnomusicology
-328,Bullying
-329,Imaginary wars and battles
-330,Politicians
-331,India
-332,Yao (Southeast Asian people)
-333,Botany
-334,Historic sites
-335,Creative ability in business.
-336,Computer network protocols
-337,Church group work with youth
-338,Femininity
-339,Contracts
-340,Bashfulness
-341,Christian education of preschool children
-342,Radar
-343,3D studio
-344,Archival resources
-345,"Dollar, American"
-346,Organizational change
-347,Jews
-348,Card games
-349,Animal treatment
-350,Clothing and dress
-351,Small claims courts
-352,Classical drama
-353,Domestic fiction
-354,RELIGION
-355,Communication in humanities
-356,Clairvoyants
-357,Ethnologie
-358,Executions and executioners
-359,"Iraq War, 2003-"
-360,Occupations
-361,Chakras
-362,Catholic preaching
-363,Christian education of children
-364,Interior architecture
-365,Mexican American women
-366,Bengali fiction
-367,Hawaii
-368,Historical fiction
-369,Deafblind women
-370,Year 2000 date conversion (Computer systems)
-371,"Art, Japanese"
-372,Chicago (Ill.)
-373,"Boston Tea Party, Boston, Mass., 1773"
-374,Childrens literature
-375,Christianity and politics
-376,Mexico
-377,Bodybuilding
-378,Interior decoration
-379,Primitivity (Psychoanalysis)
-380,Estate planning
-381,Tierra del Fuego (Argentina and Chile)
-382,Space vehicles
-383,Hell in literature
-384,Death
-385,Exercise
-386,Finance
-387,"American wit and humor, Pictorial"
-388,Artists
-389,Discipline of children
-390,Greenwich (Conn.)
-391,Atlantic Coast (U.S.)
-392,Fourth dimension
-393,"Abnormalities, Human"
-394,Bereavement
-395,Economists
-396,Christians
-397,Baptists
-398,Monastic and religious life
-399,"Authors, Guinean"
-400,Dream interpretation
-401,"Authors, Austrian"
-402,Technology
-403,Displacement (Psychology)
-404,"Women authors, American"
-405,Electronic data processing
-406,Will
-407,Jewish literature
-408,Conversation
-409,Drawings
-410,Inheritance and succession
-411,Alaska
-412,St. Albans (England)
-413,Church and the world
-414,Adjoining landowners
-415,Fairy tales
-416,Learning
-417,Argentine fiction
-418,Fraud
-419,Tabla
-420,Ocean liners
-421,COOKING
-422,Alternative medicine
-423,Biography
-424,Delusions
-425,"Cookery, Indonesian"
-426,Corporate governance
-427,England
-428,"September 11 Terrorist Attacks, 2001"
-429,Church history
-430,"Africa, Sub-Saharan"
-431,Matopo Hills (Zimbabwe)
-432,Mauser rifle
-433,Atlantic Coast (France)
-434,Firearms
-435,Springfield rifle
-436,Crimes without victims
-437,Mental healing
-438,Philosophers
-439,Cinematography
-440,College student orientation
-441,Imaginary letters
-442,"Charitable uses, trusts, and foundations"
-443,Harvest festivals
-444,Codependency
-445,Celts
-446,Molecular structure
-447,Country life
-448,Chronic pain
-449,Meaning (Philosophy)
-450,Photograph albums
-451,Photojournalism
-452,Marshals
-453,English drama
-454,Autism spectrum disorders
-455,Administración de riesgos
-456,Motion picture audiences
-457,Poliomyelitis
-458,Belief and doubt
-459,Estados Unidos - Política militar
-460,Ghosts
-461,Office practice
-462,Mahāmudrā (Tantric rite)
-463,Bodhicitta (Buddhism)
-464,Bilingual
-465,English poetry
-466,"Associations, institutions, etc"
-467,Rose culture
-468,Lesson planning
-469,Aunts
-470,Current Events
-471,MEDICAL
-472,Girls
-473,Business ethics in motion pictures
-474,Burma
-475,Collective memory
-476,"Asia, Central"
-477,Automobile mechanics
-478,Behavior
-479,Flute players
-480,Mothers
-481,Composition (Music)
-482,American periodicals
-483,Golf
-484,"Creole dialects, English"
-485,Carving (Decorative arts)
-486,Social psychology
-487,Birth certificates
-488,"Authors, Japanese"
-489,Computer animation
-490,Physicists
-491,"World War, 1914-1918"
-492,Rifles
-493,"Ballads, English"
-494,Diodes
-495,Electronic circuit design
-496,Eskimo languages
-497,Acculturation
-498,Social problems
-499,War stories
-500,Children
-501,Character
-502,Inhalant abuse
-503,Marketing research
-504,Autism
-505,Missouri River Valley
-506,Immortality
-507,Buddhism
-508,Language arts (Middle school)
-509,Architects
-510,Embedded computer systems
-511,Animal experimentation
-512,Marriage
-513,Avocado
-514,Cats
-515,JUVENILE NONFICTION
-516,Bioenergetic psychotherapy
-517,Adultery
-518,Spiritual life
-519,"Erotic poetry, Canadian"
-520,Discoveries in geography
-521,Environmental psychology
-522,Savannah (Ga.)
-523,Inyo National Forest (Calif. and Nev.)
-524,Hindu mathematics
-525,Sufism
-526,AutoCAD (Computer file)
-527,Catholics
-528,Music trade
-529,Veterinarian and Client
-530,Hospitals
-531,Housing
-532,College readers
-533,Sanskrit language
-534,Academic libraries
-535,Colors
-536,Algebra
-537,Business enterprises
-538,Anthroposophy
-539,Hippies
-540,Jamaica
-541,Coast changes
-542,Gifted persons
-543,C++ (Computer program language)
-544,Awareness
-545,Nonprofit organizations
-546,France
-547,Books and reading
-548,"Architecture, Modern"
-549,Information technology
-550,Commercial statistics
-551,Gluttony
-552,Shadow (Psychoanalysis)
-553,Genealogy
-554,Command of troops
-555,Criminal investigation
-556,Concentration camps
-557,Tibet (China)
-558,Celebrities
-559,"Civilization, Medieval"
-560,Climatic changes
-561,Interfaith marriage
-562,Signs and symbols
-563,"Horror tales, American"
-564,Creative writing
-565,"Cookery, African"
-566,Justice
-567,Church year meditations
-568,Country homes
-569,Australian poetry
-570,I AM Religious Activity
-571,"California, Northern"
-572,Maori (New Zealand people)
-573,Hasidism
-574,Bkaʼ-gdams-pa (Sect)
-575,Bombings
-576,Predator huntings
-577,Editors
-578,GAMES
-579,Australia
-580,Art and literature
-581,Electronystagmography
-582,Lebanon
-583,"Medicine, Tibetan"
-584,Flea markets
-585,"Bond, James (Fictitious character)"
-586,Aran Islands (Ireland)
-587,"Dalziel, Andrew (Fictitious character)"
-588,Commandments (Judaism)
-589,Middle East
-590,"Korean War, 1950-1953"
-591,Chinese poetry
-592,Conservatism
-593,Czechoslovakia
-594,Journalism
-595,Businessmen
-596,Obsessive-compulsive disorder
-597,Inner cities
-598,Sex role
-599,Sports administration
-600,Ceramic sculpture
-601,American drama
-602,Contracting out
-603,Golf courses
-604,Korean language
-605,Tibet Autonomous Region (China)
-606,Minnesota literature
-607,Arts
-608,Christian fiction
-609,Differential equations
-610,Deadlands (Game)
-611,Astrology
-612,Environmental toxicology
-613,Muscles
-614,Feminist theology
-615,Immune system
-616,Environmental economics
-617,Wit and humor
-618,Ark of the Covenant
-619,Atmosphere
-620,Assisi (Italy)
-621,Arctic regions
-622,City planning
-623,Amusements
-624,Readers
-625,Electrodynamics
-626,Childrens songs
-627,Cognitive therapy
-628,UNIX System V (Computer file)
-629,Cornwall (England : County)
-630,Color in textile crafts
-631,Courtesans
-632,"Art, Dutch"
-633,Avarice
-634,Anthropology
-635,Astronauts
-636,"Hollywood (Los Angeles, Calif.)"
-637,Electric engineering
-638,"Marlowe, Thomas (Fictitious character)"
-639,Large type books
-640,Consumer satisfaction
-641,Microsoft .NET Framework
-642,American poetry
-643,French drama
-644,Czech culture
-645,Deep ecology
-646,Organizational behavior
-647,Honesty
-648,"44 Scotland Street (Edinburgh, Scotland : Imaginary place)"
-649,Coloring books
-650,Readers (Primary)
-651,Families in art
-652,"Cookery, French"
-653,Conversation analysis
-654,Lesbians
-655,Entrepreneurship.
-656,PHILOSOPHY
-657,Cricket players
-658,"Ayodhya (Faizabad, India)"
-659,Crime
-660,COMICS & GRAPHIC NOVELS
-661,Cambodia
-662,Gambling systems
-663,Theologians.
-664,Nebraska
-665,Book of Mormon
-666,Reiki (Healing system)
-667,Hepatitis
-668,Customer relations
-669,Board books
-670,Chameleons
-671,"Musical revues, comedies, etc"
-672,EDUCATION
-673,Insomnia
-674,Best sellers
-675,"Authors, Irish"
-676,Darien (Panama : Province)
-677,Hatha yoga
-678,Arthritis
-679,Communication in politics
-680,Christian biography
-681,"Depression, Mental"
-682,Monsters
-683,Friendship
-684,Impostors and imposture
-685,African American authors
-686,Czech language
-687,Art appreciation
-688,FreeBSD.
-689,Blindness
-690,Grandchildren
-691,Politics and government
-692,Humorous stories
-693,Cognition
-694,Law examinations
-695,Caricatures and cartoons
-696,Shot glasses
-697,Educational sociology
-698,Hindu hymns
-699,Spirit writings
-700,Fruit
-701,Alcoholic beverages
-702,Witches
-703,Church work with the terminally ill
-704,Authors spouses
-705,Experimental fiction
-706,Back
-707,Latin America
-708,Creationism
-709,Iran
-710,Discourse analysis
-711,Soul mates
-712,"Vietnam War, 1961-1975"
-713,Mothers and sons
-714,Christian ethics
-715,Second Advent
-716,"Automobiles, Military"
-717,Bacteria
-718,Electric wiring
-719,Professional employees
-720,Chief executive officers
-721,Autobiography
-722,Canadians
-723,Scotland
-724,Cap dAgde (France)
-725,College students
-726,Islam
-727,Language and languages
-728,COMPUTERS
-729,Turning (Lathe work)
-730,Entertainers
-731,Angels
-732,Private investigators
-733,Hispanic Americans
-734,COMICS & GRAPHIC NOVELS.
-735,"Ardennes, Battle of the, 1944-1945"
-736,Ritterkreuz.
-737,Alchemy
-738,Fremdsprachenunterricht
-739,End of the world.
-740,Memory
-741,Sonatas (Piano)
-742,Athens (Greece)
-743,Swimming
-744,Beowulf
-745,Insects
-746,Asthma
-747,Governesses in literature
-748,Christianity
-749,"Civilization, Islamic"
-750,Fantasy
-751,Extraterrestrial beings
-752,Storytelling performances
-753,Tibetan literature
-754,College department heads
-755,Business networks
-756,Edible mushrooms
-757,Gambling
-758,Animated films
-759,Barcelona (Spain)
-760,"Holocaust, Jewish (1939-1945)"
-761,Reformation.
-762,Indians in art
-763,Acting
-764,Dating (Social customs)
-765,Breast
-766,Phenomenology
-767,Decorative arts
-768,Industrial safety
-769,Ceramic tableware
-770,Caribbean Area
-771,Cabinet officers
-772,Marketing
-773,Polish language
-774,Knit goods
-775,Canadian Rockies (B.C. and Alta.)
-776,Employee motivation
-777,Clowns
-778,Fathers Day - Children Fiction
-779,"Belden, Trixie (Fictitious character)"
-780,Deer hunting
-781,"Africa, North"
-782,Revolutions
-783,Arizona
-784,Cambridgeshire (England)
-785,Commercial real estate
-786,"Authors, Spanish"
-787,Childbirth
-788,Air forces
-789,HISTORY
-790,Work
-791,Internet dating
-792,Cuban American families
-793,Dieu - Amour
-794,Dolls
-795,Theology
-796,Motherhood
-797,Bratislava (Slovakia)
-798,Earth (Planet)
-799,Fantasy fiction
-800,JUVENILE FICTION
-801,Carnival
-802,Saturn launch vehicles.
-803,Computer architecture
-804,African American lesbians
-805,Spanish literature
-806,"Architecture, Roman"
-807,Lunar surface vehicles
-808,Abandoned children
-809,Domestic animals
-810,Calculus
-811,"Childrens literature, English"
-812,Wizards
-813,Computer-aided design
-814,Homeless persons
-815,Indian women
-816,Business travel.
-817,Atomic structure
-818,Boats and boating
-819,Self (Philosophy).
-820,Bulimia
-821,Bar mitzvah
-822,Conspiracies
-823,Authorship
-824,BUSINESS & ECONOMICS
-825,Distributed operating systems (Computers)
-826,Gold mines and mining
-827,Poland
-828,Prophecies (Occultism)
-829,Bass guitar
-830,"Balsan, Consuelo Vanderbilt"
-831,Ethiopia
-832,Theosophy
-833,New York (N.Y.)
-834,Genetic disorders
-835,Farm life
-836,Cooperative societies
-837,Public speaking
-838,"Art, Modern"
-839,African American women
-840,East Asia
-841,"Sinclair, Paul (Fictitious character)"
-842,Categories (Philosophy)
-843,Big Sur Region (Calif.)
-844,Cardiology
-845,Self-actualization (Psychology)
-846,Niagara Falls (N.Y. and Ont.)
-847,Mammals
-848,Fast food restaurants
-849,Christianity and other religions
-850,Computer software
-851,Boys
-852,Corporations
-853,Horses
-854,Lewis and Clark Expedition
-855,Sailboats
-856,Advaita
-857,African American painters
-858,Director (Computer file)
-859,Volkswagen Polo automobile
-860,Art deco (Architecture)
-861,Russian language
-862,C (Computer program language)
-863,Anatomy
-864,Administrative agencies
-865,"Australian wit and humor, Pictorial"
-866,Orkney (Scotland)
-867,Proverbs
-868,Russia (Federation)
-869,Meat
-870,Community organization
-871,Anabaptists
-872,Child Welfare
-873,Automobiles
-874,African Language
-875,Motion picture producers and directors
-876,Horror films
-877,Silver jewelry
-878,Environmental protection
-879,Loss (Psychology)
-880,Health promotion
-881,Ciphers
-882,Feminist economics
-883,Silhouettes
-884,Amsterdam (Netherlands)
-885,Vienna (Austria)
-886,Citation of legal authorities
-887,North Carolina
-888,Civil disobedience
-889,New England
-890,World Series (Baseball)
-891,Fairies
-892,"Artillery, Field and mountain"
-893,Incas
-894,Behavior disorders in children
-895,Success
-896,Guineafowl
-897,Plantation life
-898,Audiobooks
-899,Cooking (Wine)
-900,Mortars (Ordnance)
-901,Food
-902,Legal research
-903,Ocean travel
-904,Digital media
-905,Keyboarding
-906,Desserts
-907,Czech Americans
-908,Counterculture
-909,Newspapers
-910,Common bean
-911,Food supply
-912,Kings Canyon National Park (Calif.)
-913,Computer graphics
-914,Composers
-915,Greek poetry
-916,Activity programs in education
-917,Cake decorating
-918,People with disabilities
-919,Deverry (Imaginary place)
-920,Koi
-921,American Sign Language
-922,Emigration and immigration
-923,Fire fighters
-924,Home economics
-925,Charms
-926,BIBLES
-927,Behavior modification
-928,Sunflowers
-929,Popular culture
-930,Anger
-931,Murder
-932,Solar collectors
-933,Algeria
-934,Tarot
-935,Desolation Wilderness (Calif.)
-936,Werewolves
-937,Painting
-938,Agriculture
-939,Hopi Indians
-940,Anglican Communion
-941,SAT (Educational test)
-942,Colombo (Sri Lanka)
+13,Computers
+14,Family & Relationships
+15,Nature
+16,Comics & Graphic Novels
+17,Sports & Recreation
+18,History
+19,Juvenile Nonfiction
+20,Reference
+21,Juvenile Fiction
+22,Mathematics
+23,True Crime
+24,Foreign Language Study
+25,"Body, Mind & Spirit"
+26,Medical
+27,Dieu - Amour
+28,Literary Collections
+29,Literary Criticism
+30,Political Science
+31,Social Science
+32,Self-Help
+33,Travel
+34,Childrens literature
+35,Dolls
+36,Technology & Engineering
+37,Games
+38,Language Arts & Disciplines
+39,Antiques & Collectibles
+40,Biography & Autobiography
+41,"Authors, American"
+42,Theology
+43,Motherhood
+44,Health & Fitness
+45,Poetry
+46,Performing Arts
+47,Young Adult Fiction
+48,Pets
+49,FICTION
+50,Violin
+51,Bratislava (Slovakia)
+52,Crafts & Hobbies
+53,Transportation
+54,Earth (Planet)
+55,Humor
+56,Bible
+57,Fairy tales
+58,Drama
+59,Architecture
+60,Law
+61,Photography
+62,Fantasy fiction
+63,JUVENILE FICTION
+64,Carnival
+65,Saturn launch vehicles.
+66,Computer architecture
+67,Games & Activities
+68,African American lesbians
+69,Spanish literature
+70,"Architecture, Roman"
+71,Golf
+72,Design
+73,Lunar surface vehicles
+74,House & Home
+75,Space vehicles
+76,Lesbians
+77,Abandoned children
+78,Domestic animals
+79,Child rearing
+80,Calculus
+81,"Childrens literature, English"
+82,Wizards
+83,Computer-aided design
+84,Homeless persons
+85,Indian women
+86,Exercise
+87,Business travel.
+88,Atomic structure
+89,Boats and boating
+90,Self (Philosophy).
+91,Behavior
+92,Bulimia
+93,Bibles
+94,Study Aids
+95,Bar mitzvah
+96,Childrens stories
+97,Adventure stories
+98,Conspiracies
+99,Authorship
+100,Buddhism
+101,BUSINESS & ECONOMICS
+102,Distributed operating systems (Computers)
+103,Gold mines and mining
+104,Poland
+105,Prophecies (Occultism)
+106,Bass guitar
+107,"Balsan, Consuelo Vanderbilt"
+108,Ethiopia
+109,Theosophy
+110,United States
+111,New York (N.Y.)
+112,Genetic disorders
+113,Farm life
+114,Cooperative societies
+115,Public speaking
+116,"Art, Modern"
+117,African American women
+118,Electronic books
+119,East Asia
+120,"Sinclair, Paul (Fictitious character)"
+121,Categories (Philosophy)
+122,Big Sur Region (Calif.)
+123,Creative thinking
+124,Crime
+125,Cardiology
+126,Self-actualization (Psychology)
+127,Niagara Falls (N.Y. and Ont.)
+128,Detective and mystery stories
+129,Mammals
+130,Fast food restaurants
+131,English language
+132,Christianity and other religions
+133,American fiction
+134,Islam
+135,Computer software
+136,"Depression, Mental"
+137,"Beauty, Personal"
+138,Ghosts
+139,FAMILY & RELATIONSHIPS
+140,Boys
+141,Corporations
+142,Horses
+143,Lewis and Clark Expedition
+144,African Americans
+145,Sailboats
+146,Advaita
+147,African American painters
+148,Director (Computer file)
+149,Internal medicine
+150,Volkswagen Polo automobile
+151,Art deco (Architecture)
+152,Russian language
+153,"Authors, English"
+154,C (Computer program language)
+155,Anatomy
+156,Microsoft .NET Framework
+157,Administrative agencies
+158,"Australian wit and humor, Pictorial"
+159,Orkney (Scotland)
+160,Proverbs
+161,HISTORY
+162,Adoptees
+163,Bullies
+164,Entropy
+165,Russia (Federation)
+166,Meat
+167,Community organization
+168,Anabaptists
+169,Child Welfare
+170,Automobiles
+171,Hatha yoga
+172,African Language
+173,Motion picture producers and directors
+174,Horror films
+175,Good and evil
+176,Families
+177,Silver jewelry
+178,Differential equations
+179,Environmental protection
+180,Loss (Psychology)
+181,Board books
+182,Health promotion
+183,Ciphers
+184,Chicago (Ill.)
+185,Germany
+186,Feminist economics
+187,Antisemitism
+188,Silhouettes
+189,Amsterdam (Netherlands)
+190,Vienna (Austria)
+191,Citation of legal authorities
+192,North Carolina
+193,Computer networks
+194,Civil disobedience
+195,English fiction
+196,ART
+197,New England
+198,World Series (Baseball)
+199,Domestic fiction
+200,Fairies
+201,Employee motivation
+202,"Childrens stories, English"
+203,GAMES
+204,"Artillery, Field and mountain"
+205,Incas
+206,Behavior disorders in children
+207,Insects
+208,Success
+209,Guineafowl
+210,COMPUTERS
+211,Plantation life
+212,Audiobooks
+213,Cooking (Wine)
+214,Mortars (Ordnance)
+215,BIOGRAPHY & AUTOBIOGRAPHY
+216,Food
+217,Legal research
+218,Ocean travel
+219,Digital media
+220,Keyboarding
+221,Desserts
+222,Czech Americans
+223,Counterculture
+224,Newspapers
+225,Common bean
+226,Food supply
+227,Kings Canyon National Park (Calif.)
+228,Computer graphics
+229,Composers
+230,Greek poetry
+231,Activity programs in education
+232,Cake decorating
+233,Canadian fiction
+234,People with disabilities
+235,Deverry (Imaginary place)
+236,Koi
+237,American Sign Language
+238,College readers
+239,Christian life
+240,China
+241,Martial arts
+242,Emigration and immigration
+243,Fire fighters
+244,Home economics
+245,Charms
+246,BIBLES
+247,Behavior modification
+248,Hispanic Americans
+249,Sunflowers
+250,Angels
+251,Popular culture
+252,Anger
+253,Murder
+254,"World War, 1939-1945"
+255,Solar collectors
+256,Algeria
+257,Tarot
+258,Desolation Wilderness (Calif.)
+259,Werewolves
+260,Man-woman relationships
+261,Painting
+262,Agriculture
+263,Hopi Indians
+264,Anglican Communion
+265,SAT (Educational test)
+266,Colombo (Sri Lanka)
+267,Adultery
